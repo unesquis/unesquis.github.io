@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://unesquis.github.io/sitemap.html.gz
+Sitemap: https://unesquis.github.io/app/sitemap.html.gz
+Sitemap: https://unesquis.github.io/assets/sitemap.html.gz
+Sitemap: https://unesquis.github.io/css/sitemap.html.gz
+Sitemap: https://unesquis.github.io/data/sitemap.html.gz
+Sitemap: https://unesquis.github.io/includes/sitemap.html.gz
+Sitemap: https://unesquis.github.io/item/sitemap.html.gz
+Sitemap: https://unesquis.github.io/src/sitemap.html.gz
